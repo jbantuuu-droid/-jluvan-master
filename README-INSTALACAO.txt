@@ -1,6 +1,6 @@
-J LUVAN MASTER PRO — V3.2 (correção completa)
+J LUVAN MASTER PRO — V3.4 (correção completa + conteúdo científico dos 12 módulos)
 
-O QUE FOI CORRIGIDO NESTA VERSÃO
+O QUE FOI CORRIGIDO/ADICIONADO NESTA VERSÃO
 1. Os filtros "Em progresso", "Concluídos" e "Favoritos" no Curso MASTER não tinham
    nenhuma ação ligada — agora filtram corretamente a lista de módulos.
 2. O sistema offline foi reforçado: a partir de agora, quando publicar uma
@@ -8,6 +8,19 @@ O QUE FOI CORRIGIDO NESTA VERSÃO
    automaticamente (sem precisar de limpar dados do Safari todas as vezes).
    Isto só vale a partir desta publicação em diante — é preciso fazer UMA
    última limpeza manual para o iPhone largar a versão presa (passo 8 abaixo).
+3. Apenas 5 dos 12 módulos tinham aula escrita; os outros 7 mostravam um texto
+   genérico. Foi escrita aula completa (ver/entender/executar/fiscalizar/
+   praticar) para todos os 12 módulos.
+4. O separador ENTENDER de cada um dos 12 módulos passou a ter um resumo
+   científico próprio, nível de revisão para estudante de Engenharia Civil
+   e Estrutural: fundamentos teóricos, classificações e fórmulas de
+   referência (Terzaghi, nivelamento geométrico, ELU/ELS em betão armado,
+   esbeltez em alvenaria, Lei de Darcy e Lei de Jurin em impermeabilização,
+   Hazen-Williams e Lei de Ohm em instalações, CPM/PERT em planeamento,
+   BDI desmembrado em orçamento, amostragem em fiscalização, 2ª Lei de Fick
+   em patologias, e análise dimensional em cálculos). Estas fórmulas são
+   modelos de referência para estudo — a aplicação em obra real deve sempre
+   seguir a norma técnica vigente e ser validada por profissional habilitado.
 
 PUBLICAR NO GITHUB PAGES
 1. Descompacte este ZIP.
